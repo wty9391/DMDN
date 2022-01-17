@@ -42,7 +42,7 @@ DMDN
 ```
 
 ### Run DMDN
-Please check the CUDA_VISIBLE_DEVICES variable in `./run_DMDN.sh` before running.
+Please check the CUDA_VISIBLE_DEVICES variable in `./shell/run_DMDN.sh` before running.
 
 Then run the following code to train and evaluate the DMDN
 ```bash
