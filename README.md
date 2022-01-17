@@ -13,8 +13,9 @@ Our experimental platform's key configuration:
 * 64 GB memory
 * Ubuntu 18.04 operating system
 * python 3.7
-* pytorch 1.3
 * cuda 10.2
+* tensorflow 2.3
+* tensorflow-probability 0.11
 
 Required Python libraries are listed in `./requirements.txt`
 
