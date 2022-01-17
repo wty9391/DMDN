@@ -46,6 +46,7 @@ Please check the CUDA_VISIBLE_DEVICES variable in `./shell/run_DMDN.sh` before r
 
 Then run the following code to train and evaluate the DMDN
 ```bash
+cd ./shell
 bash ./run_DMDN.sh
 ```
 You can find the running logs in this directories `./result/$advertiser/log/run_DMDN`.
