@@ -22,7 +22,7 @@ Required Python libraries are listed in `./requirements.txt`
 
 
 ### Prepare Dataset
-Before run the demo, please first check the [iPinYou dataset](http://data.computational-advertising.org) and the [criteo dataset](https://ailab.criteo.com/criteo-attribution-modeling-bidding-dataset/).
+Before run the demo, please first check the [iPinYou dataset](https://contest.ipinyou.com/) and the [criteo dataset](https://ailab.criteo.com/criteo-attribution-modeling-bidding-dataset/).
 
 
 Then, please create a folder named `datasets`, and unzip the dataset in it.
